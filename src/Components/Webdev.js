@@ -1,5 +1,5 @@
 import React from 'react';
-import webdev from '../Images/webdev.jpeg';
+import webdev from '../Images/webdev.png';
 
 export default function Webdev() {
   return (
