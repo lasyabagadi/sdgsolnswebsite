@@ -5,7 +5,7 @@
 .listdec{
   list-style: none;
   padding: 0;
-  margin:25px 0px 0px 600px;
+  margin:-30px 0px 0px 1100px;
 }
 .listdec li{
     display: inline-block;
@@ -14,54 +14,62 @@
 .hrdec{
   margin-top: 10px;
 }
-.maindec{
-  /* margin-top: 70px; */
-  background: blue;
+.hirerow{
+  margin-top: 10px;
 }
-.imgdiv{
- 
+.p ul li{
+  padding: 10px;
 }
 .aboutdiv{
-  background: rgb(33, 33, 64);
-  height: 500px;
+  background: #151836;
+  height: 550px;
 }
 .about{
   margin: 80px 0px 0px 200px;
 }
-.button{
-  background: orange;
-}
 .one{
-  color: rgb(255, 129, 4);
-  margin-top:60px;
+  margin-top: 100px;
 }
 .two{
-  float: left;
-  border-radius: 20px;
-  height: 270px;
-  width: 400px;
-  background: whitesmoke;
-  margin-left: 70px;
-  margin-top: 70px;
+  margin-top: 30px;
 }
 .three{
+  height: 120px;
+  width:150px
+}
+.three1{
+  height: 120px;
+  width: 300px;
+}
+.three2{
+  height: 120px;
+  width: 130px;
+}
+.four1{
+  width: 350px;
+  height: 400px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 55px;
+}
+.four2{
+  width: 350px;
+  height: 400px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 55px;
   
-    float: left;
-    border-radius: 20px;
-    height: 270px;
-    width: 400px;
-    background: whitesmoke;
-    margin-left: 100px;
-    margin-top: 70px;
-  }
-.four{
-  float: left;
-    border-radius: 20px;
-    height: 270px;
-    width: 400px;
-    background: whitesmoke;
-    margin-left: 80px;
-    margin-top: 70px;
+}
+.four3{
+  width: 350px;
+  height: 400px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 55px;
+
+}
+.five{
+  margin-top: 50px;
 }
 .imagdiv{
   height: 300px;
